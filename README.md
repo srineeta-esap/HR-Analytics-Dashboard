@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard visualizing employee attrition, job satisfaction, salary trends, and HR metrics across departments with clean, modern visuals.
 
-![Dashboard Preview](./screenshot.png)
+![Dashboard Preview](./dashboard-preview.jpg)
 
 ---
 
