@@ -52,7 +52,7 @@ This dashboard supports HR managers and analysts in:
 
 ## 🎥 Live Demo
 
-▶️ [Watch Dashboard Walkthrough](https://your-demo-link-here)  
+▶️ [Watch Dashboard Walkthrough](https://www.loom.com/share/6ccc1d41540d47eabc91166cd46d1add?sid=15fd5d9a-12b1-4c59-a02a-eca32e38d82b)  
 
 
 ---
